@@ -3,7 +3,7 @@
 ![TICs y Medioambiente](https://img.shields.io/badge/TICs%20y%20Medioambiente-00CED1?style=flat&logo=visualstudiocode&logoColor=white)
 
 
-### [Índice](Readme.md)
+### [Índice](README.md)
 
 ### [Ud1.Introducción](UD1/ud1.md)
 
