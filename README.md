@@ -1,5 +1,6 @@
 ## Sostenibilidad
 ![Sostenibilidad](https://img.shields.io/badge/Sostenibilidad-009933?style=flat&logo=leafly&logoColor=white)
+![TICs y Medioambiente](https://img.shields.io/badge/TICs%20y%20Medioambiente-00CED1?style=flat&logo=visualstudiocode&logoColor=white)
 
 
 ### [Índice](Readme.md)
